@@ -1,0 +1,15 @@
+D:\Для учасника.ІТ\OlympTasks\TaskD\bin\Debug\net5.0\TaskD.exe
+D:\Для учасника.ІТ\OlympTasks\TaskD\bin\Debug\net5.0\TaskD.deps.json
+D:\Для учасника.ІТ\OlympTasks\TaskD\bin\Debug\net5.0\TaskD.runtimeconfig.json
+D:\Для учасника.ІТ\OlympTasks\TaskD\bin\Debug\net5.0\TaskD.runtimeconfig.dev.json
+D:\Для учасника.ІТ\OlympTasks\TaskD\bin\Debug\net5.0\TaskD.dll
+D:\Для учасника.ІТ\OlympTasks\TaskD\bin\Debug\net5.0\ref\TaskD.dll
+D:\Для учасника.ІТ\OlympTasks\TaskD\bin\Debug\net5.0\TaskD.pdb
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\TaskD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\TaskD.AssemblyInfoInputs.cache
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\TaskD.AssemblyInfo.cs
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\TaskD.csproj.CoreCompileInputs.cache
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\TaskD.dll
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\ref\TaskD.dll
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\TaskD.pdb
+D:\Для учасника.ІТ\OlympTasks\TaskD\obj\Debug\net5.0\TaskD.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.exe
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.deps.json
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.runtimeconfig.json
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.runtimeconfig.dev.json
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.dll
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\bin\Debug\net5.0\ref\OlympTasks.dll
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.pdb
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.csprojAssemblyReference.cache
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.AssemblyInfoInputs.cache
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.AssemblyInfo.cs
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.csproj.CoreCompileInputs.cache
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.dll
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\ref\OlympTasks.dll
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.pdb
+C:\Users\DoIt\Desktop\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.genruntimeconfig.cache
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.exe
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.deps.json
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.runtimeconfig.json
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.runtimeconfig.dev.json
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.dll
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\bin\Debug\net5.0\ref\OlympTasks.dll
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\bin\Debug\net5.0\OlympTasks.pdb
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.csprojAssemblyReference.cache
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.AssemblyInfoInputs.cache
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.AssemblyInfo.cs
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.csproj.CoreCompileInputs.cache
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.dll
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\ref\OlympTasks.dll
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.pdb
+D:\Для учасника.ІТ\OlympTasks\OlympTasks\obj\Debug\net5.0\OlympTasks.genruntimeconfig.cache

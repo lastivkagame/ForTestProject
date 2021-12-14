@@ -1,0 +1,16 @@
+D:\Для учасника.ІТ\OlympTasks\testVScode\bin\Debug\net5.0\testVScode.exe
+D:\Для учасника.ІТ\OlympTasks\testVScode\bin\Debug\net5.0\testVScode.deps.json
+D:\Для учасника.ІТ\OlympTasks\testVScode\bin\Debug\net5.0\testVScode.runtimeconfig.json
+D:\Для учасника.ІТ\OlympTasks\testVScode\bin\Debug\net5.0\testVScode.runtimeconfig.dev.json
+D:\Для учасника.ІТ\OlympTasks\testVScode\bin\Debug\net5.0\testVScode.dll
+D:\Для учасника.ІТ\OlympTasks\testVScode\bin\Debug\net5.0\ref\testVScode.dll
+D:\Для учасника.ІТ\OlympTasks\testVScode\bin\Debug\net5.0\testVScode.pdb
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.csprojAssemblyReference.cache
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.AssemblyInfoInputs.cache
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.AssemblyInfo.cs
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.csproj.CoreCompileInputs.cache
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.dll
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\ref\testVScode.dll
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.pdb
+D:\Для учасника.ІТ\OlympTasks\testVScode\obj\Debug\net5.0\testVScode.genruntimeconfig.cache

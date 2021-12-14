@@ -1,0 +1,16 @@
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\bin\Debug\net5.0\OlympPreparation.exe
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\bin\Debug\net5.0\OlympPreparation.deps.json
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\bin\Debug\net5.0\OlympPreparation.runtimeconfig.json
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\bin\Debug\net5.0\OlympPreparation.runtimeconfig.dev.json
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\bin\Debug\net5.0\OlympPreparation.dll
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\bin\Debug\net5.0\ref\OlympPreparation.dll
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\bin\Debug\net5.0\OlympPreparation.pdb
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.csprojAssemblyReference.cache
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.AssemblyInfoInputs.cache
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.AssemblyInfo.cs
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.csproj.CoreCompileInputs.cache
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.dll
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\ref\OlympPreparation.dll
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.pdb
+D:\Для учасника.ІТ\OlympTasks\OlympPreparation\obj\Debug\net5.0\OlympPreparation.genruntimeconfig.cache
